@@ -1,0 +1,7 @@
+
+py
+from pyautogui import displayMousePosition
+displayMousePosition()
+exit()
+
+C:\Users\cleid\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:\Users\cleid\Desktop\beterraba\projetos\autopyton\app.py"
